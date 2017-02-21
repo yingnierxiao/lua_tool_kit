@@ -1,0 +1,3 @@
+[submodule "env_src/luarocks"]
+	path = env_src/luarocks
+	url = git://github.com/luarocks/luarocks.git
